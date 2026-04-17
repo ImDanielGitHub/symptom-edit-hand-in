@@ -1,4 +1,4 @@
-# Symptom Edit Stream Exercise
+# Symptom Edit Stream Hand-In
 
 This solution implements two functions over `SymptomEditEvent` records:
 
